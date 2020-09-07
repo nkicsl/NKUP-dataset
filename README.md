@@ -5,7 +5,7 @@ The NKUP dataset is collected with fifteen cameras, including eight indoor camer
 
 # 2.Download
 
-Please download the dataset using the links below: [Baidu Yun](https://pan.baidu.com/s/1f4b-tpRZYIwiUTbmIDNPRQ)(code:ik5s)
+Please download the dataset using the links below: [Baidu Yun](https://pan.baidu.com/s/1f4b-tpRZYIwiUTbmIDNPRQ)(code:ik5s) or [Google Drive](https://drive.google.com/drive/folders/1xVJylT2sa2KqWu9kVfi6r10TOXAlR8wp?usp=sharing)
 
 # 3.Content
 
