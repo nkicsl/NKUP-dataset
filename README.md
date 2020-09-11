@@ -22,4 +22,4 @@ The folder contains three files:
 # 5.Cite
 
 Please cite the following paper if this dataset helps your research:  
-How to cite this article: Wang K, Ma Z, Chen S, Yang J, Zhou K, Li T. A benchmark for clothes variation in person re-identification. Int J Intell Syst. 2020;1-18. https://doi.org/10.1002/int.22276
+Wang K, Ma Z, Chen S, Yang J, Zhou K, Li T. A benchmark for clothes variation in person re-identification. Int J Intell Syst. 2020;1-18. https://doi.org/10.1002/int.22276
