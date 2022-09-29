@@ -14,7 +14,7 @@ Therefore, we proposed a long-term and publicly available person re-ID dataset c
 Please download the NKUP dataset using the links below: [Baidu Yun](https://pan.baidu.com/s/1f4b-tpRZYIwiUTbmIDNPRQ)(code:ik5s) or [Google Drive](https://drive.google.com/drive/folders/1xVJylT2sa2KqWu9kVfi6r10TOXAlR8wp?usp=sharing)
 
 
-And you can download the NKUP+ dataset using the links below: [Baidu Yun](https://pan.baidu.com/s/1e3UHs_eZddyuRlJHU3oUHg?pwd=cn63)(code:cn63) 
+And you can download the NKUP+ dataset using the links below: [Baidu Yun](https://pan.baidu.com/s/1e3UHs_eZddyuRlJHU3oUHg?pwd=cn63)(code:cn63). If you have any questions about downloading the dataset, please contact us by sending email to aics@nankai.edu.cn.
 
 # 3.Content
 
